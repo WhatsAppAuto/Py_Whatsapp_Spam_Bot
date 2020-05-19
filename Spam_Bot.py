@@ -2,9 +2,6 @@ from selenium import webdriver
 from time import sleep
 import PySimpleGUI as sg
 
-i=0
-while True:
-    i=i
 
 sg.theme('DarkAmber')
 
